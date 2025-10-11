@@ -1,1 +1,2 @@
-#!/bin/bash\ncp ./.html ..
+#!/bin/bash
+cp ./.html ..
